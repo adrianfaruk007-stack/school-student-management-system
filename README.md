@@ -35,7 +35,7 @@ A desktop application for managing school student records, built with **Java Swi
 
 ## Screenshots
 
-![Main window](screenshots/main-window.png)
+![Main window](main-window.png)
 
 ## Planned Improvements
 
